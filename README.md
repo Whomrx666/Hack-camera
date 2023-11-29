@@ -24,6 +24,6 @@ $ ./Hack-camera.sh
 <p> Termux users should install <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.files">  MATERIAL FILES  </a> app from playstore for easy managing captured files.</p> 
 
 **If you want to donate, click on the button**
-<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Hack-camera-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-UserFinder-yellow?style=for-the-badge&logo=github"></a>
 
 <b>Selamat menghacking Kerrr : ]<b>
