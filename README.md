@@ -1,6 +1,6 @@
 <h1 align="center">Hack-camera</h1>
 <p align="center"><img src="cd.png" max-width="90%%" height="auto"></p>
-<p align="center">Ambil gambar webcam dari target hanya dengan mengirimkan tautan berbahaya</p>
+<p align="center">Retrieve webcam images of targets simply by sending malicious links</p>
 
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
