@@ -1,5 +1,5 @@
 <h1 align="center">Hack-camera</h1>
-<p align="center"><img src="cd.png" max-width="90%%" height="auto"></p>
+<p align="center"><img src="cd.jpg" max-width="90%%" height="auto"></p>
 <p align="center">Retrieve webcam images of targets simply by sending malicious links</p>
 
 # How it works?
